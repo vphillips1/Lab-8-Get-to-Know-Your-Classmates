@@ -1,0 +1,13 @@
+C:\Users\verke\source\repos\Lab 8 Example\Lab 8 Example\bin\Debug\netcoreapp3.1\Lab 8 Example.exe
+C:\Users\verke\source\repos\Lab 8 Example\Lab 8 Example\bin\Debug\netcoreapp3.1\Lab 8 Example.deps.json
+C:\Users\verke\source\repos\Lab 8 Example\Lab 8 Example\bin\Debug\netcoreapp3.1\Lab 8 Example.runtimeconfig.json
+C:\Users\verke\source\repos\Lab 8 Example\Lab 8 Example\bin\Debug\netcoreapp3.1\Lab 8 Example.runtimeconfig.dev.json
+C:\Users\verke\source\repos\Lab 8 Example\Lab 8 Example\bin\Debug\netcoreapp3.1\Lab 8 Example.dll
+C:\Users\verke\source\repos\Lab 8 Example\Lab 8 Example\bin\Debug\netcoreapp3.1\Lab 8 Example.pdb
+C:\Users\verke\source\repos\Lab 8 Example\Lab 8 Example\obj\Debug\netcoreapp3.1\Lab 8 Example.csprojAssemblyReference.cache
+C:\Users\verke\source\repos\Lab 8 Example\Lab 8 Example\obj\Debug\netcoreapp3.1\Lab 8 Example.AssemblyInfoInputs.cache
+C:\Users\verke\source\repos\Lab 8 Example\Lab 8 Example\obj\Debug\netcoreapp3.1\Lab 8 Example.AssemblyInfo.cs
+C:\Users\verke\source\repos\Lab 8 Example\Lab 8 Example\obj\Debug\netcoreapp3.1\Lab 8 Example.csproj.CoreCompileInputs.cache
+C:\Users\verke\source\repos\Lab 8 Example\Lab 8 Example\obj\Debug\netcoreapp3.1\Lab 8 Example.dll
+C:\Users\verke\source\repos\Lab 8 Example\Lab 8 Example\obj\Debug\netcoreapp3.1\Lab 8 Example.pdb
+C:\Users\verke\source\repos\Lab 8 Example\Lab 8 Example\obj\Debug\netcoreapp3.1\Lab 8 Example.genruntimeconfig.cache
